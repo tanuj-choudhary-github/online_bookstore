@@ -24,7 +24,7 @@ The project demonstrates how structured data can be used to extract meaningful i
 ## 📂 Dataset
 
 The dataset consists of three CSV files:
-- <a href="https://github.com/tanuj-choudhary-github/online_bookstore/blob/main/Books.csv"><br>Books<br></a>
+- <a href="https://github.com/tanuj-choudhary-github/online_bookstore/blob/main/Books.csv">Books<br></a>
 - <a href="https://github.com/tanuj-choudhary-github/online_bookstore/blob/main/Customers.csv">Customers<br></a>
 - <a href="https://github.com/tanuj-choudhary-github/online_bookstore/blob/main/Orders.csv">Orders<br></a>
 - <a href="https://github.com/tanuj-choudhary-github/online_bookstore/blob/main/OnlineBookStore.sql">SQL Queries<br></a>
